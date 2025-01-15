@@ -1,0 +1,14 @@
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.exe
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.deps.json
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.runtimeconfig.json
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.dll
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.pdb
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.AssemblyInfoInputs.cache
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.AssemblyInfo.cs
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.csproj.CoreCompileInputs.cache
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.dll
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\refint\LINQ_Practice.dll
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.pdb
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.genruntimeconfig.cache
+D:\Washim\Visual Studio Projects\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\ref\LINQ_Practice.dll
